@@ -13,5 +13,6 @@ fs.readFile(__filename, () => {
     })
 })
 
+// it is second branch (branch-2)
 // after merging there will be added three comments
 // it is first branch (branch-1)
