@@ -12,3 +12,5 @@ fs.readFile(__filename, () => {
         console.log('Tick') // second
     })
 })
+
+// after merging there will be added three comments
