@@ -12,3 +12,5 @@ fs.readFile(__filename, () => {
         console.log('Tick') // second
     })
 })
+
+// it is second branch (branch-2)
